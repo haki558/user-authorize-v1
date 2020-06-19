@@ -2,7 +2,7 @@
 "users":[
         {
           "id":"harikrishna.boga@lennoxintl.com",
-          "sAMAccountName":"lennoxexternal\A99999.0.manoj",
+          "sAMAccountName":"lennoxexternal\\A99999.0.manoj",
           "Company":"A99999",
           "CustomerNumber":"A99999",
           "SalesOrg":"LXUS",
@@ -21,7 +21,7 @@
         },
         {
           "id":"hari.boga@gmail.com",
-          "sAMAccountName":"lennoxexternal\A99999.0.manoj",
+          "sAMAccountName":"lennoxexternal\\A99999.0.manoj",
           "Company":"A99999",
           "CustomerNumber":"A99999",
           "SalesOrg":"LXUS",
