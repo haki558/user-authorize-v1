@@ -1,0 +1,42 @@
+{
+"users":[
+        {
+          "id":"harikrishna.boga@lennoxintl.com",
+          "sAMAccountName":"lennoxexternal\A99999.0.manoj",
+          "Company":"A99999",
+          "CustomerNumber":"A99999",
+          "SalesOrg":"LXUS",
+          "CustomerType":"",
+          "EmailAddress":"harikrishna.boga@lennoxintl.com",
+          "BusinessPhone":"651-256-9876",
+          "FirstName":"Hari",
+          "LastName":"Boga",
+          "Address1":"2380 Plano Pkwy",
+          "PostalCode":"75054",
+          "Language":"en",
+          "SAPSoldToParty":"A99999",
+          "SAPShipToParty":"A99999_LXUS_01",
+          "LnxEmployee":"true",
+          "UserId":"A99999.0.manoj"
+        },
+        {
+          "id":"hari.boga@gmail.com",
+          "sAMAccountName":"lennoxexternal\A99999.0.manoj",
+          "Company":"A99999",
+          "CustomerNumber":"A99999",
+          "SalesOrg":"LXUS",
+          "CustomerType":"",
+          "EmailAddress":"hari.boga@gmail.com",
+          "BusinessPhone":"651-256-9876",
+          "FirstName":"Hari",
+          "LastName":"Boga",
+          "Address1":"2380 Plano Pkwy",
+          "PostalCode":"75054",
+          "Language":"en",
+          "SAPSoldToParty":"A99999",
+          "SAPShipToParty":"A99999_LXUS_01",
+          "LnxEmployee":"true",
+          "UserId":"A99999.0.manoj"
+        }
+]
+}
