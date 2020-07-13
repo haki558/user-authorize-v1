@@ -75,6 +75,25 @@
           "SAPShipToParty":"A99999_LXUS_01",
           "LnxEmployee":"true",
           "UserId":"A99999.0.manoj"
+        },
+        {
+          "id":"lyledcruz+2@gmail.com",
+          "sAMAccountName":"lennoxexternal\\A99999.0.manoj",
+          "Company":"A99999",
+          "CustomerNumber":"A99999",
+          "SalesOrg":"LXUS",
+          "CustomerType":"",
+          "EmailAddress":"lyledcruz+2@gmail.com",
+          "BusinessPhone":"651-256-9876",
+          "FirstName":"Grace",
+          "LastName":"Yang",
+          "Address1":"2380 Plano Pkwy",
+          "PostalCode":"75054",
+          "Language":"en",
+          "SAPSoldToParty":"A99999",
+          "SAPShipToParty":"A99999_LXUS_01",
+          "LnxEmployee":"true",
+          "UserId":"A99999.0.manoj"
         }
 ]
 }
